@@ -1,5 +1,5 @@
 /*
- * Alternate implementaiton of the core jQuery UI "pulsate" effect
+ * Alternate implementation of the core jQuery UI "pulsate" effect
  * (http://docs.jquery.com/UI/Effects/Pulsate) that accepts "min_opacity"
  * and "max_opacity" options (current core implementation simply fades 
  * the target element from 0 to 1.0 opacity and back).
